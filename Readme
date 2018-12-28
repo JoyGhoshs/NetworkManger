@@ -1,0 +1,29 @@
+Network Manager App Is An Android App It Has Ability To Show You More Thing You Dont Know About Your Wifi Network
+
+{Network Manager V1 Has Ablity To Show:
+#Connection Type
+#Wifi Connection Status:
+#Mobile Data Connection Status
+#Gps status
+#Your Wifi Ip
+#Your Wifi Mac Adress}
+
+[Network Manager 2 Is Created With  Foucused On Wifi Network]
+{Network Manager 2 Has Ability To Show:
+#Connection Type
+#Wifi Connection Status:
+#Mobile Data Connection Status
+#Wifi Ip
+#Wifi Gateway
+#Wifi Dns Server
+#Fast Connection Status
+#Wifi Ssid
+#wifi Bssid
+#Wifi Mac Adress
+#Signal Strength
+#Connection info[it Has #Supplicient State
+                        #RSSI#Speed
+                        #Frequency
+                        #Netid
+                        #Metered Hint
+                        #Score]
